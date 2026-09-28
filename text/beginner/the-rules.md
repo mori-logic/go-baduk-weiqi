@@ -19,3 +19,8 @@ Groups of stones share liberties. See if you can count how many liberties each g
 <p align="center">
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/7d781bc5-788b-4292-9de4-66daec7947aa" />
 </p>
+
+<details>
+  <summary>Answers</summary>
+ A: 8, B: 8, C: 5
+</details>
