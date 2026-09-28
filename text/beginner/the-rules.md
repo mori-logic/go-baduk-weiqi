@@ -87,19 +87,27 @@ In practice it looks like this. A ko is created when black plays A. Notice white
 
 If white decides to play the ko and capture at B, can black now capture white back at C?
 
+<p align="center">
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/5c5617fc-0905-4140-a940-85a149d8f613" />
+</p>
+
 <details>
   <summary>Answer</summary>
  No
 </details>
 
-<p align="center">
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/5c5617fc-0905-4140-a940-85a149d8f613" />
-</p>
-
-Because the board has already been in that position, playing at C is not an option for black this turn. Black must play elsewhere on the board or pass their turn. This gives white options. First white may choose to fill the ko at C, stopping the madness.
+Because the board has already been in that position, playing at C is not an option for black this turn. Black must play elsewhere on the board or pass their turn. This gives white options. First white may choose to fill the ko, stopping the madness.
 
 <p align="center">
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/098c2ee7-2da2-4d6f-9871-5bf793ff444b" />
 </p>
 
+Otherwise if white decides there is a more pressing move on the board elsewhere, they are free to play it. This leaves the ko in play. Because the board state has now changed, black may now come back and recapture white in ko. 
+
 ### Scoring
+
+Here we will learn Japanese (territory) scoring. There are other methods of scoring that result in the same score or similar by a narrow margin. 
+
+At the end of a game dead stones are removed from the board and added to captures. More on this in the next section, "Living and Dead Groups". Next, captures are used to fill in the territory of their respective color. Stones may now be rearranged while preserving borders between colors, to make easier shapes to count. It is preferable to make boxes with dimensions of 5 or 10, but any formation is acceptable as long as you can count the number of intersections accurately. 
+
+[An example 9x9 game](https://online-go.com/demo/1785676) presented by Cho Chikun in "Go: A Complete Introduction to the Game" can be viewed at OGS. I have added a second branch that shows how it could be counted. Comments are on the last node of each branch. For full professional commentary on the game, please consider purchasing the book. 
