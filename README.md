@@ -4,5 +4,5 @@
 
 ### Beginner
 
-[The Rules](text/beginner/the-rules.md)
+[The Rules](text/beginner/1-the-rules.md), [
 
