@@ -5,7 +5,7 @@
 <ul>
   <li>Beginner [~20 Kyu]</li>
   <ul>
-    <li> [Object of the Game](text/beginner/object-of-the-game.md) </li>
+    <li> [Object of the Game](README.md) </li>
   </ul>
   <li>Novice [20-10 Kyu]</li>
   <li>Intermediate[10-5 Kyu]</li>
