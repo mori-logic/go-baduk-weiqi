@@ -3,9 +3,7 @@
 </p>
 
 <details>
-  <summary>Click to reveal spoiler</summary>
-
-  This is the hidden text or code that people will see after clicking!
-
+  <summary>Beginner</summary>
+  
 </details>
 
