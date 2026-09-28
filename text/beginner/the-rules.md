@@ -7,7 +7,7 @@ In essence Go is a simple game that can be played following four rules, outlined
 
 But in practice, questions arise with new players on how to functionally play and the complexity of the game has almost no bounds with the situations that can arise.
 
-In this way, Go is an elegant game that deserves praise for it's beauty. I suggest [![this video](JRveBqnPJKg)](www.youtube.com) by Nick Sibicky on why he likes Go for a good introduction to the wonder of the game and why to even play. 
+In this way, Go is an elegant game that deserves praise for it's beauty. I suggest [this video](https://youtu.be/JRveBqnPJKg?si=IAHkVObHF0mYjilb) by Nick Sibicky on why he likes Go for a good introduction to the wonder of the game and why to even play. 
 
 ### Object of the Game
 
