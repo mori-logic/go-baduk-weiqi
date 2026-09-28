@@ -6,7 +6,6 @@
   <summary>Beginner</summary>
   
   [The Rules](text/beginner/the-rules)
-
   Example Text
   
 </details>
