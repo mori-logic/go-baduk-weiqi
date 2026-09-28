@@ -4,7 +4,9 @@
 
 <details>
   <summary>Beginner</summary>
+  
   [Object of the Game](#object-of-the-game)
+  
 </details>
 
 # Beginner
