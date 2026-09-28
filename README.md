@@ -4,6 +4,8 @@
 
 <details>
   <summary>Beginner</summary>
-  [Object of the Game](text/beginner/object-of-the-game.md)
+  [Object of the Game](#object-of-the-game)
 </details>
 
+# Beginner
+## Object of the Game
