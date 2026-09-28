@@ -9,7 +9,9 @@ But in practice, questions arise with new players on how to functionally play an
 
 In this way, Go is an elegant game that deserves praise for it's beauty. I suggest this video by Nick Sibicky on why he likes Go for a good introduction to the wonder of the game and why to even play. 
 
+<div>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JRveBqnPJKg?si=UoQnXEC63rPmpd1x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 ### Object of the Game
 
