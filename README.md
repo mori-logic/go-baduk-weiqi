@@ -4,5 +4,5 @@
 
 ### Beginner
 
-[The Rules](text/beginner/1-the-rules.md), [
+[1. The Rules](text/beginner/1-the-rules.md), [2. Living and Dead Groups](text/beginner/2-living-and-dead-groups.md)
 
