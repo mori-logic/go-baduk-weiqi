@@ -126,4 +126,16 @@ Players are frequently not the same strength. To equalize the difficulty of a ga
 
 If playing with a clock, standard Japanese time keeping has a main time (e.g. 45 minutes), then when the main time is all used up you enter byo-yomi. In byo-yomi you will have five periods of 30 seconds left in which to make moves. If you do not use the full 30 seconds in a period the time for that period is reset. The last 10 seconds of a period will be counted aloud. If all of your byo-yomi periods are used up, you will lose on time. 
 
+# Sources
 
+Nick Sibicky's YouTube Channel
+<p align="center">
+<img width="1293" height="671" alt="image" src="https://github.com/user-attachments/assets/85fcbd77-198c-48d8-9231-b62d53872b49" />
+</p>
+
+Cho Chikun's Go: A Complete Introduction to the Game
+<p align="center">
+<img width="492" height="673" alt="image" src="https://github.com/user-attachments/assets/478e7b71-8798-408d-a1d5-78d3b71ce13c" />
+</p>
+
+Please consider supporting these sources and exploring everything they have to offer for your Go education. 
