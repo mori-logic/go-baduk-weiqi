@@ -14,7 +14,7 @@ In this way, Go is an elegant game that deserves praise for it's beauty. I sugge
 The object of the game is to control more territory than your opponent. Each unoccupied intersection of the board surrounded by a single color of stones is a point of territory. In this simple example white wins by 9 points.
 
 <p align="center">
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/8f765555-183a-43e8-81b2-8d837c766016" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/762fbc72-f528-4340-82ae-2f7700426110" />
 </p>
 
 ### Progression of Play
@@ -28,13 +28,13 @@ Play continues until both players pass their turn in succession indicating they 
 Each stone, or group of stones has what are called liberties. Liberties are the unoccupied adjacent intersections to the stone or group and can be thought of like breathing space. If every liberty is filled by a stone of the opposing color the stone suffocates and dies, or in other words is captured and removed from the board. A single stone in the middle of the board has 4 liberties. Notice the diagonal intersections are not counted as liberties. 
 
 <p align="center">
-  <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/dcae4986-1363-4325-857c-3cf8a9c53599" />
+  <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/9f6d1017-cd75-470c-b8e0-43f96884288c" />
 </p>
 
 Groups of stones share liberties. See if you can count how many liberties each group of stones has. 
 
 <p align="center">
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/7d781bc5-788b-4292-9de4-66daec7947aa" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/fe1557d3-5d47-494a-85d6-cd77c6843991" />
 </p>
 
 <details>
