@@ -111,3 +111,19 @@ Here we will learn Japanese (territory) scoring. There are other methods of scor
 At the end of a game dead stones are removed from the board and added to captures. More on this in the next section, "Living and Dead Groups". Next, captures are used to fill in the territory of their respective color. Stones may now be rearranged while preserving borders between colors, to make easier shapes to count. It is preferable to make boxes with dimensions of 5 or 10, but any formation is acceptable as long as you can count the number of intersections accurately. 
 
 [An example 9x9 game](https://online-go.com/demo/1785676) presented by Cho Chikun in "Go: A Complete Introduction to the Game" can be viewed at OGS. There is a second branch that shows how it could be counted. Comments are on the last node of each branch. For full professional commentary on the game, please consider purchasing the book. 
+
+### Other Rules
+
+#### Komi
+
+Because black getting the initiative to move first is an advantage, white is often awarded bonus points called komi to make up for the deficit. Standard komi under Japanese rules is 6.5 points. Why the 0.5? This is a tie breaker. In the event of a tie, white wins. 
+
+#### Handicap
+
+Players are frequently not the same strength. To equalize the difficulty of a game between players of different ranks we use a handicap system. With a handicap, the weaker player takes black and starts with anywhere from two to nine stones on the board at the start of the game that rest on the star points. One stone typically represents a single rank difference between players. White then gets to make the first autonomous move. Komi is set to 0.5 as a simple tie breaker. 
+
+#### Time Keeping (Byo-yomi)
+
+If playing with a clock, standard Japanese time keeping has a main time (e.g. 45 minutes), then when the main time is all used up you enter byo-yomi. In byo-yomi you will have five periods of 30 seconds left in which to make moves. If you do not use the full 30 seconds in a period the time for that period is reset. The last 10 seconds of a period will be counted aloud. If all of your byo-yomi periods are used up, you will lose on time. 
+
+
