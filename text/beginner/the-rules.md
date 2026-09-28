@@ -56,4 +56,17 @@ Here is the resulting board state:
 
 A side note: before white plays the capturing marked stones the black stones have only 1 liberty left each and are said to be in atari. When your stones are in atari, they can be captured on your opponents next move unless measures are taken against such actions.
 
+When you capture a stone it becomes a prisoner and should be set aside. At the end of the game prisoners deduct from your opponents score. 
+
+### Illegal Moves
+
+#### No Suicide 
+It is illegal in Go to play a move where your stone is dead on landing. For example, the point marked "A" is an illegal move for black.
+
+<p align="center">
+<img width="485" height="488" alt="image" src="https://github.com/user-attachments/assets/04f4c621-9bb5-4051-9cf7-db58a85ffbc6" />
+</p>
+
+
+
 ### Scoring
