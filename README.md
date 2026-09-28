@@ -5,9 +5,9 @@
 <details>
   <summary>Beginner</summary>
   
-  [Object of the Game](#object-of-the-game)
+  [The Rules](text/beginner/the-rules)
+
+  Example Text
   
 </details>
 
-# Beginner
-## Object of the Game
