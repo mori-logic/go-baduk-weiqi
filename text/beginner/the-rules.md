@@ -1,3 +1,16 @@
+In essence Go is a simple game that can be played following four rules, outlined by Cho Chikun in "Go: A Complete Introduction to the Game". 
+
+1. Stones are played on the intersections.
+2. The stones do not move after being played.
+3. Black plays first.
+4. Black and white alternate in making their moves.
+
+But in practice, questions arise with new players on how to functionally play and the complexity of the game has almost no bounds with the situations that can arise.
+
+In this way, Go is an elegant game that deserves praise for it's beauty. I suggest this video by Nick Sibicky on why he likes Go for a good introduction to the wonder of the game and why to even play. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JRveBqnPJKg?si=UoQnXEC63rPmpd1x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### Object of the Game
 
 The object of the game is to control more territory than your opponent. Each unoccupied intersection of the board surrounded by a single color of stones is a point of territory. In this simple example white wins by 9 points.
