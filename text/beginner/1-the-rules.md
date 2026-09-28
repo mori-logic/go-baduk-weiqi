@@ -128,12 +128,12 @@ If playing with a clock, standard Japanese time keeping has a main time (e.g. 45
 
 # Sources
 
-Nick Sibicky's YouTube Channel
+Nick Sibicky's [YouTube Channel](https://www.youtube.com/channel/UC_msctwlIh2cwM8yAtaju1A)
 <p align="center">
-<img width="1050" height="450" alt="image" src="https://github.com/user-attachments/assets/85fcbd77-198c-48d8-9231-b62d53872b49" />
+<img width="850" height="450" alt="image" src="https://github.com/user-attachments/assets/85fcbd77-198c-48d8-9231-b62d53872b49" />
 </p>
 
-Cho Chikun's Go: A Complete Introduction to the Game
+Cho Chikun's [Go: A Complete Introduction to the Game](https://senseis.xmp.net/?GoACompleteIntroductionToTheGame)
 <p align="center">
 <img width="300" height="470" alt="image" src="https://github.com/user-attachments/assets/478e7b71-8798-408d-a1d5-78d3b71ce13c" />
 </p>
