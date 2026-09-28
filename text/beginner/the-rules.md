@@ -24,3 +24,15 @@ Groups of stones share liberties. See if you can count how many liberties each g
   <summary>Answers</summary>
  A: 8, B: 8, C: 5
 </details>
+
+Here are examples of captured stones. As soon as white plays the marked stones, the black stones are captured and will be removed from the board.
+
+<p align="center">
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/212667e1-11af-49de-b066-8c52f40f9b9c" />
+</p>
+
+Here is the resulting board state: 
+
+<p align="center">
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/6aabef6d-6e9f-4fb5-a2cb-b56c46755ac7" />
+</p>
