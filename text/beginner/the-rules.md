@@ -61,12 +61,45 @@ When you capture a stone it becomes a prisoner and should be set aside. At the e
 ### Illegal Moves
 
 #### No Suicide 
-It is illegal in Go to play a move where your stone is dead on landing. For example, the point marked "A" is an illegal move for black.
+It is illegal in Go to play a move where your stone is dead on landing. For example, the point marked A is an illegal move for black. This is because the black group will have no liberties left if the point is filled. 
 
 <p align="center">
-<img width="485" height="488" alt="image" src="https://github.com/user-attachments/assets/04f4c621-9bb5-4051-9cf7-db58a85ffbc6" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/04f4c621-9bb5-4051-9cf7-db58a85ffbc6" />
 </p>
 
+However, if your move will make a capture it is legal to play into a space where you will have no liberties. The act of capturing stones creates liberties for the stone being placed. On this board, the point "A" is now a legal move for black.
 
+<p align="center">
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/a2892914-233b-4881-839f-b5e122d8e1fa" />
+</p>
+
+#### No Repeating A Previous Board State
+
+The rule is that no arrangement of stones on the board may exist for more than one move during the game. The board state must change. 
+
+This rule arises from a situation called ko. In ko the problem is, if allowed, players could capture each other back and forth an infinite number of times resulting in a loop that breaks the game. To resolve this problem, we observe that a previous board state may not be repeated. 
+
+In practice it looks like this. A ko is created when black plays A. Notice white can now capture black at B.
+
+<p align="center">
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/fe08b6ee-a9b3-4b06-8851-ccc268fa5924" />
+</p>
+
+If white decides to play the ko and capture at B, can black now capture white back at C?
+
+<details>
+  <summary>Answer</summary>
+ No
+</details>
+
+<p align="center">
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/5c5617fc-0905-4140-a940-85a149d8f613" />
+</p>
+
+Because the board has already been in that position, playing at C is not an option for black this turn. Black must play elsewhere on the board or pass their turn. This gives white options. First white may choose to fill the ko at C, stopping the madness.
+
+<p align="center">
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/098c2ee7-2da2-4d6f-9871-5bf793ff444b" />
+</p>
 
 ### Scoring
