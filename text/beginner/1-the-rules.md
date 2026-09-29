@@ -126,6 +126,14 @@ Players are frequently not the same strength. To equalize the difficulty of a ga
 
 If playing with a clock, standard Japanese time keeping has a main time (e.g. 45 minutes), then when the main time is all used up you enter byo-yomi. In byo-yomi you will have five periods of 30 seconds left in which to make moves. If you do not use the full 30 seconds in a period the time for that period is reset. The last 10 seconds of a period will be counted aloud. If all of your byo-yomi periods are used up, you will lose on time. 
 
+### Seki
+
+Seki is a situation in which neither black or white can move. It is a stalemate, for whoever moves first will be captured. Seki are left on the board at the end of the game and not counted toward either player's score. Assuming the outer stones are alive, the inner marked stones are locked in a seki.
+
+<p align="center">
+  <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/af802e22-a05f-44fd-8248-f37d55556d3a" />
+</p>
+
 # Sources
 
 Nick Sibicky's [YouTube Channel](https://www.youtube.com/channel/UC_msctwlIh2cwM8yAtaju1A)
